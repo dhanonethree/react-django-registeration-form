@@ -23,6 +23,7 @@ You will see the Django rest api running at 8000a
 Open a browser  and go to http://localhost:3000
 Enter  details in the fields and submit
 You will see a successful or failure message. 
+Use Different User, Username and Email everytime.
 
 
 # Pics
