@@ -23,3 +23,10 @@ You will see the Django rest api running at 8000a
 Open a browser  and go to http://localhost:3000
 Enter  details in the fields and submit
 You will see a successful or failure message. 
+
+
+# Pics
+![Screenshot 2024-03-22 213201](https://github.com/dhanonethree/react-django-registeration-form/assets/18680504/0adee153-acdb-4c28-9087-345c52c57e95)
+
+![Screenshot 2024-03-22 213133](https://github.com/dhanonethree/react-django-registeration-form/assets/18680504/11a810eb-bcfe-47de-ae45-19534a909c89)
+
