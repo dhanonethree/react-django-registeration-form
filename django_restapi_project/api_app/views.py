@@ -12,3 +12,6 @@ class MyModelListCreateView(generics.ListCreateAPIView):
 class MyModelRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = MyModel.objects.all()
     serializer_class = MyModelSerializer
+# class MyModelRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
+#     queryset = MyModel.objects.all()
+#     serializer_class = MyModelSerializer
